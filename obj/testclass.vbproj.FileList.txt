@@ -1,0 +1,44 @@
+obj\Debug\testclass.exe
+obj\Debug\testclass.xml
+obj\Debug\testclass.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\testclass.Form1.resources
+obj\Debug\testclass.Resources.resources
+obj\Debug\testclass.vbproj.GenerateResource.Cache
+bin\Debug\testclass.exe
+bin\Debug\testclass.pdb
+bin\Debug\testclass.xml
+obj\Debug\testclass.Form3.resources
+obj\Debug\testclass.FrmTable.resources
+bin\Debug\testclass.exe.config
+obj\Debug\testclass.FormBank.resources
+bin\Release\Average Date_Data.MDF
+bin\Release\Average Date_Data_log.ldf
+bin\Release\testclass.exe.config
+bin\Release\testclass.exe.manifest
+bin\Release\testclass.application
+bin\Release\testclass.exe
+bin\Release\testclass.pdb
+bin\Release\testclass.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\testclass.Form1.resources
+obj\Release\testclass.Form3.resources
+obj\Release\testclass.FormBank.resources
+obj\Release\testclass.FrmTable.resources
+obj\Release\testclass.Resources.resources
+obj\Release\testclass.vbproj.GenerateResource.Cache
+obj\Release\testclass.exe.manifest
+obj\Release\testclass.application
+obj\Release\testclass.exe
+obj\Release\testclass.xml
+obj\Release\testclass.pdb
+bin\Debug\testclass.exe.manifest
+bin\Debug\testclass.application
+obj\Debug\testclass.exe.manifest
+obj\Debug\testclass.application
+obj\Release\testclass.CrystalReport102.rpt
+obj\Release\testclass.CrystalReport103.rpt
+obj\Debug\testclass.CrystalReport102.rpt
+obj\Debug\testclass.CrystalReport103.rpt
+bin\Debug\Average Date_Data.MDF
+bin\Debug\Average Date_Data_log.ldf

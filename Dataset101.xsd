@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Dataset101" targetNamespace="http://tempuri.org/Dataset101.xsd" xmlns:mstns="http://tempuri.org/Dataset101.xsd" xmlns="http://tempuri.org/Dataset101.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Dataset101" msdata:IsDataSet="true" msdata:Locale="en-US" msprop:Generator_UserDSName="Dataset101" msprop:Generator_DataSetName="Dataset101">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AvrgDate" msprop:Generator_UserTableName="AvrgDate" msprop:Generator_RowDeletedName="AvrgDateRowDeleted" msprop:Generator_RowChangedName="AvrgDateRowChanged" msprop:Generator_RowClassName="AvrgDateRow" msprop:Generator_RowChangingName="AvrgDateRowChanging" msprop:Generator_RowEvArgName="AvrgDateRowChangeEvent" msprop:Generator_RowEvHandlerName="AvrgDateRowChangeEventHandler" msprop:Generator_TableClassName="AvrgDateDataTable" msprop:Generator_TableVarName="tableAvrgDate" msprop:Generator_RowDeletingName="AvrgDateRowDeleting" msprop:Generator_TablePropName="AvrgDate">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="num" msprop:Generator_UserColumnName="num" msprop:Generator_ColumnPropNameInRow="num" msprop:Generator_ColumnVarNameInTable="columnnum" msprop:Generator_ColumnPropNameInTable="numColumn" type="xs:short" minOccurs="0" />
+              <xs:element name="checkno" msprop:Generator_UserColumnName="checkno" msprop:Generator_ColumnPropNameInRow="checkno" msprop:Generator_ColumnVarNameInTable="columncheckno" msprop:Generator_ColumnPropNameInTable="checknoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="value" msprop:Generator_UserColumnName="value" msprop:Generator_ColumnPropNameInRow="value" msprop:Generator_ColumnVarNameInTable="columnvalue" msprop:Generator_ColumnPropNameInTable="valueColumn" type="xs:long" minOccurs="0" />
+              <xs:element name="checkdate" msprop:Generator_UserColumnName="checkdate" msprop:Generator_ColumnPropNameInRow="checkdate" msprop:Generator_ColumnVarNameInTable="columncheckdate" msprop:Generator_ColumnPropNameInTable="checkdateColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BankName" msprop:Generator_UserColumnName="BankName" msprop:Generator_ColumnPropNameInRow="BankName" msprop:Generator_ColumnVarNameInTable="columnBankName" msprop:Generator_ColumnPropNameInTable="BankNameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BBranch" msprop:Generator_UserColumnName="BBranch" msprop:Generator_ColumnPropNameInRow="BBranch" msprop:Generator_ColumnVarNameInTable="columnBBranch" msprop:Generator_ColumnPropNameInTable="BBranchColumn" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="AccNum" msprop:Generator_UserColumnName="AccNum" msprop:Generator_ColumnVarNameInTable="columnAccNum" msprop:Generator_ColumnPropNameInRow="AccNum" msprop:Generator_ColumnPropNameInTable="AccNumColumn" type="xs:string" default="" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

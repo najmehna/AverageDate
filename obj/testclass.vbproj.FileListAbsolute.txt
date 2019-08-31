@@ -1,0 +1,45 @@
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\testclass.exe.config
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.exe
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.xml
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.pdb
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\Average Date_Data.MDF
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\Average Date_Data_log.ldf
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\testclass.exe.manifest
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\testclass.application
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\testclass.exe
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\testclass.pdb
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\bin\Debug\testclass.xml
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.CrystalReport102.rpt
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.CrystalReport103.rpt
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.FrmActivation.resources
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.FrmRows.resources
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.FormBank.resources
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.FrmTable.resources
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.Resources.resources
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.exe.manifest
+D:\My Documents\Visual Studio 2005\Projects\testclass\testclass\obj\Debug\testclass.application
+D:\Visual studio projects\testclass\testclass\bin\Debug\testclass.exe.config
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.exe
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.xml
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.pdb
+D:\Visual studio projects\testclass\testclass\bin\Debug\Average Date_Data.MDF
+D:\Visual studio projects\testclass\testclass\bin\Debug\Average Date_Data_log.ldf
+D:\Visual studio projects\testclass\testclass\bin\Debug\testclass.exe.manifest
+D:\Visual studio projects\testclass\testclass\bin\Debug\testclass.application
+D:\Visual studio projects\testclass\testclass\bin\Debug\testclass.exe
+D:\Visual studio projects\testclass\testclass\bin\Debug\testclass.pdb
+D:\Visual studio projects\testclass\testclass\bin\Debug\testclass.xml
+D:\Visual studio projects\testclass\testclass\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.CrystalReport102.rpt
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.CrystalReport103.rpt
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.FrmActivation.resources
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.FrmRows.resources
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.FormBank.resources
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.FrmTable.resources
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.Resources.resources
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.vbproj.GenerateResource.Cache
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.exe.manifest
+D:\Visual studio projects\testclass\testclass\obj\Debug\testclass.application
+D:\Visual studio projects\testclass\testclass\bin\Debug\Settings.vb
